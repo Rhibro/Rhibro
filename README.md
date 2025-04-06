@@ -10,7 +10,7 @@ Do what you love, right? I fell in love with coding when I started the course IT
     - LinkedIn: https://www.linkedin.com/in/rhiannon-br%C3%B6nnimann-a1a888a0/
     - Portfolio: https://rhiannonbronnimann.com/
 
-- ⚡ Fun fact:
+- ⚡ Fun facts:
     - I play the banjo 🪕
     - I play D&D 🪄
     - Dance Modern Contemporary 💃🏻
