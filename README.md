@@ -4,7 +4,19 @@ Do what you love, right? I fell in love with coding when I started the course IT
 
 - 🔭 I’m currently studying Full Stack Development at Chas Academy Yrkeshögskola. This two-year program focuses on web development skills, with a particular emphasis on JavaScript, TypeScript, and SQL. The program also provides in-depth knowledge of technical frameworks such as React and Express, backend development with Node.js for creating APIs, and working with various databases.
 
-- 💬 Ask me about accessibility. I am particularly interested in the intersection of technology and accessibilityI because I believe technology should make the world as accessilbe as possible for everyone. 
+- 💬 Ask me about accessibility. I am particularly interested in the intersection of technology and accessibilityI because I believe technology should make the world as accessilbe as possible for everyone.
+
+- 🛠️ Tools I Use
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="30" height="30"/>
+</p>
 
 - 📫 How to reach me: 
     - LinkedIn: https://www.linkedin.com/in/rhiannon-br%C3%B6nnimann-a1a888a0/
