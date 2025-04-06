@@ -16,12 +16,3 @@ Do what you love, right? I fell in love with coding when I started the course IT
     - Dance Modern Contemporary 💃🏻
     - Love animals ❤️
 
- <!---
-Tech Stack:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
---->
-
