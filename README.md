@@ -25,5 +25,5 @@ Do what you love, right? I fell in love with coding when I started the course IT
     - I play the banjo 🪕
     - I play D&D 🪄
     - Dance Modern Contemporary 💃🏻
-    - Love animals ❤️
+    - Love nature ❤️
 
