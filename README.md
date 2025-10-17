@@ -15,6 +15,8 @@ Do what you love, right? I fell in love with coding when I started the course IT
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="30" height="30"/>
+<img width="30" height="30" alt="docker logo" src="https://github.com/user-attachments/assets/98b20bfc-9398-48e1-9bff-957868c4345f" />
+
 </p>
 
 - 📫 How to reach me: 
